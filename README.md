@@ -18,7 +18,7 @@
 
 <h2>📦 Como Executar</h2>
 
-<p>Baixe ou clone este repositório:</p>>
+<p>Baixe ou clone este repositório:</p>
 
 <p>Abra o arquivo index.html no navegador.</p>
 

@@ -1,6 +1,6 @@
 <h1>Site de Refrigerantes</h1>
 
-<p>Um site interativo sobre refrigerantes, desenvolvido com HTML, CSS e JavaScript.</p>
+<p>Um Um cardapio digital de refrigerantes, desenvolvido com HTML, CSS e JavaScript.</p>
 
 <h2>🚀 Funcionalidades</h2>
 
